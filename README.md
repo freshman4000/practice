@@ -1,1 +1,2 @@
 [![Build Status](https://travis-ci.org/freshman4000/practice.svg?branch=master)](https://travis-ci.org/freshman4000/practice)# practice
+[![codecov](https://codecov.io/gh/freshman4000/Practice/branch/master/graph/badge.svg)](https://codecov.io/gh/freshman4000/Practice)
