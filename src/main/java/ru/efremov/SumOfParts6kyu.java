@@ -1,5 +1,7 @@
 package ru.efremov;
 
+import java.util.Comparator;
+
 public class SumOfParts6kyu {
     public static int[] sumParts(int[] ls) {
         // need to have algo time O(n)
