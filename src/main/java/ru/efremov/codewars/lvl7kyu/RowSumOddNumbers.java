@@ -1,4 +1,4 @@
-package ru.efremov;
+package ru.efremov.codewars.lvl7kyu;
 
 public class RowSumOddNumbers {
     public static int rowSumOddNumbers(int n) {

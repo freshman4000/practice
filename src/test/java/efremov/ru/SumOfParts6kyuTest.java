@@ -3,7 +3,7 @@ package efremov.ru;
 import org.junit.Test;
 import org.hamcrest.core.Is;
 import org.junit.Assert;
-import ru.efremov.SumOfParts6kyu;
+import ru.efremov.codewars.lvl6kyu.SumOfParts6kyu;
 
 /**
  * Test.

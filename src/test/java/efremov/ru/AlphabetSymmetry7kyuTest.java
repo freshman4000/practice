@@ -3,7 +3,7 @@ package efremov.ru;
 import org.junit.Test;
 import org.junit.Assert;
 import  org.hamcrest.core.Is;
-import ru.efremov.AlphabetSymmetry7kyu;
+import ru.efremov.codewars.lvl7kyu.AlphabetSymmetry7kyu;
 
 public class AlphabetSymmetry7kyuTest {
     @Test

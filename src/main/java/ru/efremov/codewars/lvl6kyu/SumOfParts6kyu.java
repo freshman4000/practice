@@ -1,4 +1,4 @@
-package ru.efremov;
+package ru.efremov.codewars.lvl6kyu;
 
 import java.util.Comparator;
 

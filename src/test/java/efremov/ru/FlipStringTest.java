@@ -3,7 +3,7 @@ package efremov.ru;
 import org.junit.Test;
 import org.junit.Assert;
 import org.hamcrest.core.Is;
-import ru.efremov.FlipString7kyu;
+import ru.efremov.codewars.lvl7kyu.FlipString7kyu;
 
 /**
  * Test.

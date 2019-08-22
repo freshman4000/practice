@@ -1,4 +1,4 @@
-package ru.efremov;
+package ru.efremov.codewars.lvl7kyu;
 
 public class FlipString7kyu {
     public static String solve(final String str) {

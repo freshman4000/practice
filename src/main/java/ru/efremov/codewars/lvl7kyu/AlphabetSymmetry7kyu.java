@@ -1,4 +1,4 @@
-package ru.efremov;
+package ru.efremov.codewars.lvl7kyu;
 
 import java.util.HashMap;
 import java.util.Map;
