@@ -1,4 +1,4 @@
-package ru.efremov;
+package ru.efremov.codewars.lvl6kyu;
 
 public class WhatsInAName6kye {
     public static boolean nameInStr(String str, String name){
